@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, my name is Petter Douglas and I'm a fullstack developer!</h2>
+<h2 align="left">Hi 👋, my name is Petter Douglas and I'm a web developer!</h2>
 
 ###
 
