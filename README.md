@@ -39,7 +39,12 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=petterdouglas&theme=dracula" height="150" alt="profile details" />
   <img src="https://streak-stats.demolab.com?user=petterdouglas&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=petterdouglas&theme=dracula&hide_border=true&area=true" width="100%" alt="activity graph" />
 </div>
 
 ### 🌐 Contato
