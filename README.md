@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Petter Douglas</h1>
-<h3 align="center">Backend Developer | Computer Science Student @ UFLA</h3>
+<h1 align="center">Petter Douglas</h1>
+<h3 align="center">Desenvolvedor Backend | Java, Spring Boot & Node.js</h3>
 
 <p align="center">
-  Desenvolvedor backend com experiência prática na construção de APIs REST, microsserviços e mensageria. Foco em arquiteturas escaláveis, qualidade de software (testes unitários com JUnit/Mockito) e integração contínua.
+  Bem-vindo(a) ao meu portfólio no GitHub. Sou um desenvolvedor backend dedicado à construção de APIs REST, processamento de dados e desenvolvimento de soluções escaláveis. 
+  <br><br>
+  Nos repositórios abaixo, você encontrará projetos que refletem minha atuação em arquiteturas de microsserviços e sistemas monolíticos, demonstrando minha proficiência com serviços de mensageria (AWS SQS), bancos de dados relacionais e NoSQL (Oracle e MongoDB), além de ferramentas de CI/CD e orquestração (Docker, Kubernetes e Jenkins). Sinta-se à vontade para explorar os códigos e avaliar a aplicação de boas práticas de desenvolvimento, como testes automatizados (JUnit/Mockito) e documentação técnica (Swagger).
 </p>
 
 ### 🛠️ Tecnologias e Ferramentas
@@ -21,11 +23,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" title="Node.js" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" title="Express.js" />
+  <img width="12" />
   
-  <!-- Bancos de Dados -->
+  <!-- Bancos de Dados & ORM -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" title="Oracle" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" title="MongoDB" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="prisma logo" title="Prisma ORM" />
   <img width="12" />
   
   <!-- Cloud & DevOps -->
@@ -34,6 +40,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" title="Docker" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" title="Kubernetes" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo" title="Jenkins CI/CD" />
+  <img width="12" />
+
+  <!-- Ferramentas Adicionais -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" title="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" alt="swagger logo" title="Swagger" />
 </div>
 
 ### 📊 Estatísticas do GitHub
